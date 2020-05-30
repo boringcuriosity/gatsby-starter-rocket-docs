@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `@rocketseat/gatsby-theme-docs`,
-    defaultTitle: `@rocketseat/gatsby-theme-docs`,
-    siteTitleShort: `gatsby-theme-docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
+    siteTitle: `Nokode - Nocode case studies`,
+    defaultTitle: `Nokode - Nocode case studies`,
+    siteTitleShort: `Nokode`,
+    siteDescription: `Nokode - Nocode case studies. Describing everything nocode with genuine opinions.`,
     siteUrl: `https://rocketdocs.netlify.com`,
     siteAuthor: `@rocketseat`,
     siteImage: `/banner.png`,
