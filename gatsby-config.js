@@ -10,7 +10,7 @@ module.exports = {
     siteLanguage: `en`,
     themeColor: `#7159c1`,
     basePath: `/`,
-    footer: `Theme by Rocketseat`,
+    footer: `Authored by Shaheer Ahmed`,
   },
   plugins: [
     {
@@ -30,7 +30,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#ffffff`,
         display: `standalone`,
-        icon: `static/favicon.png`,
+        icon: `https://i.ibb.co/m0RRGC3/icon.jpg`,
       },
     },
     `gatsby-plugin-sitemap`,
